@@ -104,12 +104,15 @@ This project focuses on analyzing a Netflix movie dataset to uncover insights ab
 ## 📊 Project Snapshots
 
 <p align="center">
-  <img src="./assets/img1.png" width="45%" />
-  <img src="./assets/img2.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/shubhankarnautiyal/Netflix-movies-data-analysis/main/Screenshot%202026-03-28%20195727.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/shubhankarnautiyal/Netflix-movies-data-analysis/main/Screenshot%202026-03-28%20195802.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./assets/img3.png" width="45%" />
-  <img src="./assets/img4.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/shubhankarnautiyal/Netflix-movies-data-analysis/main/Screenshot%202026-03-28%20195823.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/shubhankarnautiyal/Netflix-movies-data-analysis/main/Screenshot%202026-03-28%20195841.png" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhankarnautiyal/Netflix-movies-data-analysis/main/Screenshot%202026-03-28%20195859.png" width="60%" />
+</p>
